@@ -1,0 +1,136 @@
+{
+    "products1":[
+        {
+            "id": 1,
+            "name": "1/2 con truyền thống",
+            "price": 115000,
+            "img": "https://images.foody.vn/res/g73/725528/s120x120/bc2338f4-441e-48d2-a36b-b9aaea497031.jpg",
+            "about": 
+            "Gồm 6 miếng (đùi, lườn, cánh). Free củ cải muối, kim chi, tương ớt-cà"
+        },
+        {
+            "id": 2,
+            "name": "1/2 con vị sốt cay Hàn Quốc",
+            "price": 125000,
+            "img": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.6435-9/146269123_3173621672739916_2745071471535726044_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a26aad&_nc_ohc=kyLEl24fQZkAX-ZIGDP&tn=WRirbkR_8v5DDsOn&_nc_ht=scontent.fhan2-1.fna&oh=3cb0a2edbb05f7ff157f62bbfffc857b&oe=617E7DB5",
+            "about": 
+            "Gồm 6 miếng (đùi, lườn, cánh). Free củ cải muối, kim chi, tương ớt-cà"
+        },
+        {
+            "id": 3,
+            "name": "1/2 con vị phô mai tuyết",
+            "price": 150000,
+            "img": "https://donchicken.vn/pub/media/catalog/product/cache/8872124951f387c8ded3f228faa55bea/g/a/ga_.jpg",
+            "about": 
+            "Gồm 6 miếng (đùi, lườn, cánh). Free củ cải muối, kim chi, tương ớt-cà"
+        },
+        {
+            "id": 4,
+            "name": "Gà không xương sốt phô mai",
+            "price": 200000 ,
+            "img": "https://donchicken.vn/pub/media/catalog/product/cache/8872124951f387c8ded3f228faa55bea/g/a/gakoxuongnuongphomai.jpg",
+            "about": 
+            "Free củ cải muối, kim chi, tương ớt-cà"
+        },
+        {
+            "id": 5,
+            "name": "Gà popcorn phủ sốt phô mai",
+            "price": 69000,
+            "img": "https://images.foody.vn/res/g73/725528/s120x120/383b5e53-ce64-4f3b-b46a-d7f57534-ca1c04a3-210712201733.jpeg",
+            "about": 
+            "Free củ cải muối, kim chi, tương ớt-cà"
+        },
+        {
+            "id": 6,
+            "name": "1/2 con vị sốt kem hành",
+            "price": 140000,
+            "img": "https://images.foody.vn/res/g73/725528/s120x120/00793939-f8f2-41f7-a1cb-10b295ba-6b69fc58-200901094222.jpeg",
+            "about": 
+            "Free củ cải muối, kim chi, tương ớt-cà"
+        }
+    ],
+    "products2":[
+        {
+            "id": 1,
+            "name": "Pizza Hải sản ",
+            "price": 89000,
+            "img": "https://img.dominos.vn/Ocean-mania.jpg",
+            "about": 
+            "Xốt cà chua, Phô mai Mozzarrella, Tôm, Mực, Thanh cua, Hành tây"
+        },
+        {
+            "id": 2,
+            "name": "Pizza 5 loại thịt",
+            "price": 89000,
+            "img": "https://img.dominos.vn/Meat-lover.jpg",
+            "about": 
+            "Xốt cà chua, Phô mai Mozzarrella, Xúc xích Pepperoni, Thịt giăm bông, Xúc xích Ý, Thịt bò viên, Thịt heo muối"
+        },
+        {
+            "id": 3,
+            "name": "Pizza Xúc xích Ý ",
+            "price": 89000,
+            "img": "https://img.dominos.vn/Pepperoni-feast-.jpg",
+            "about": 
+            "Xốt cà chua, Phô mai Mozzarrella, Tôm, Mực, Thanh cua, Hành tây"
+        },
+        {
+            "id": 4,
+            "name": "Pizza Bò ngô",
+            "price": 89000,
+            "img": "https://img.dominos.vn/Prime-beef.jpg",
+            "about": 
+            "Xốt cà chua, Phô mai Mozzarrella, Bò, Ngô"
+        },
+        {
+            "id": 5,
+            "name": "Pizza Gà Phô Mai",
+            "price": 69000,
+            "img": "https://img.dominos.vn/Cheesy-chicken-bacon.jpg",
+            "about": 
+            "Xốt phô mai, Phô mai Mozzarrella, Thịt gà, Cà chua"
+        },
+        {
+            "id": 6,
+            "name": "Pizza Phô mai ",
+            "price": 69000,
+            "img": "https://img.dominos.vn/Cheese-mania.jpg",
+            "about": 
+            "Xốt cà chua, Phô mai Mozzarrella"
+        }
+    ],
+    "products3":[
+        {
+            "id": 1,
+            "name": "Cheese Burger",
+            "price": 39000,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cheeseburger.png",
+            "about": 
+            "Burger bò phô mai"
+        },
+        {
+            "id": 2,
+            "name": "Chicken Burger",
+            "price": 59000,
+            "img": "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/a/ga_1.png",
+            "about": 
+            "Burger gà phô mai"
+        },
+        {
+            "id": 3,
+            "name": "Fish Burger",
+            "price": 69000,
+            "img": "https://mcdonalds.vn/uploads/2018/food/burgers/mcroyal-with-cheese.png",
+            "about": 
+            "Burger Cá Cajun"
+        },
+        {
+            "id": 4,
+            "name": "Shrimp Burger",
+            "price": 59000,
+            "img": "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/o/tom.png",
+            "about": 
+            "Burger tôm"
+        }
+    ]
+}

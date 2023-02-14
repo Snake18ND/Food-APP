@@ -1,0 +1,63 @@
+{
+    "history":[
+        {
+            "id": 1,
+            "name": "1/2 con truyền thống",
+            "price": 115000,
+            "status" : "Đã nhận hàng •",
+            "img": "https://images.foody.vn/res/g73/725528/s120x120/bc2338f4-441e-48d2-a36b-b9aaea497031.jpg",
+            "about": 
+            "Gồm 6 miếng (đùi, lườn, cánh). Free củ cải muối, kim chi, tương ớt-cà",
+            "Date" : "Mar 06 2012 10:00:00 AM"
+        },
+        {
+            "id": 2,
+            "name": "1/2 con vị sốt cay Hàn Quốc",
+            "price": 125000,
+            "status" : "Đã nhận hàng •",
+            "img": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.6435-9/146269123_3173621672739916_2745071471535726044_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a26aad&_nc_ohc=kyLEl24fQZkAX-ZIGDP&tn=WRirbkR_8v5DDsOn&_nc_ht=scontent.fhan2-1.fna&oh=3cb0a2edbb05f7ff157f62bbfffc857b&oe=617E7DB5",
+            "about": 
+            "Gồm 6 miếng (đùi, lườn, cánh).Free củ cải muối, kim chi, tương ớt-cà",
+            "Date" : "Mar 07 2012 10:00:00 AM"
+        },
+        {
+            "id": 3,
+            "name": "Cheese Burger",
+            "price": 39000,
+            "status" : "Đã nhận hàng •",
+            "img": "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/a/ga_1.png",
+            "about": "Burger gà phô mai",
+            "Date" : "Mar 08 2012 10:00:00 AM"
+        },
+        {
+            "id": 4,
+            "name": "Fish Burger",
+            "price": 69000,
+            "status" : "Đã nhận hàng •",
+            "img": "https://mcdonalds.vn/uploads/2018/food/burgers/mcroyal-with-cheese.png",
+            "about": 
+            "Burger Cá Cajun",
+            "Date" : "Mar 09 2012 10:00:00 AM"
+        },
+        {
+            "id": 5,
+            "name": "Pizza Gà Phô Mai",
+            "price": 69000,
+            "status" : "Đã nhận hàng •",
+            "img": "https://img.dominos.vn/Cheesy-chicken-bacon.jpg",
+            "about": 
+            "Xốt phô mai, Phô mai Mozzarrella, Thịt gà, Cà chua",
+            "Date" : "Mar 10 2012 10:00:00 AM"
+        },
+        {
+            "id": 6,
+            "name": "Pizza Phô mai ",
+            "price": 69000,
+            "status" : "Đã nhận hàng •",
+            "img": "https://img.dominos.vn/Cheese-mania.jpg",
+            "about": 
+            "Xốt cà chua, Phô mai Mozzarrella"
+            ,"Date" : "Mar 11 2012 10:00:00 AM"
+        }
+    ]
+}
